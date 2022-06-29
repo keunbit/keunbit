@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - **Problem Solver** <br />
 
-### 🌱 _I'm learnig & Do_
+### 🌱 _I'm Learning & Doing_
 
 - **🤗 NLP** <br />
 
